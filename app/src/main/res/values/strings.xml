@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aga App</string>
+    <string name="error_internet">"No Hay Conexión a Internet."</string>
+    <string name="cargando">"Cargando. Por favor espere."</string>
+</resources>
